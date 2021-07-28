@@ -5,7 +5,8 @@
 - Github : [Github](https://github.com/BekBrace/django-react-app-Task_Manager)
 - Youtube: [Youtube](https://www.youtube.com/watch?v=F5OUT3ijk8M)
 - 이미지 추가해보기 [이미지](https://freekim.tistory.com/9)
-
+https://okky.kr/article/866803
+https://blog.nerdfactory.ai/2021/02/24/creating-an-api-&-collecting-html-elements-with-django-rest-framework.html
 A Task Manager application created in React as the client-side and Django Rest Framework as the server-side
 
 React in a nutshell, is a JavaScript library that is great for developing single page applications (SPA) and it has solid documentation if you're interested tor read about React.

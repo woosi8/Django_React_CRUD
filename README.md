@@ -4,6 +4,7 @@
 
 - Github : [Github](https://github.com/BekBrace/django-react-app-Task_Manager)
 - Youtube: [Youtube](https://www.youtube.com/watch?v=F5OUT3ijk8M)
+- 이미지 추가해보기 [이미지](https://freekim.tistory.com/9)
 
 A Task Manager application created in React as the client-side and Django Rest Framework as the server-side
 
